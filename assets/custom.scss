@@ -1,0 +1,18 @@
+/* nanum-myeongjo-regular - latin */
+@font-face {
+  font-family: 'Kanit';
+  font-style: normal;
+  font-weight: 300;
+  src: local(''),
+       url('../fonts/kanit-v7-thai_latin-regular.woff2') format('woff2'), 
+       url('../fonts/kanit-v7-thai_latin-regular.woff') format('woff'); 
+}
+
+@font-face {
+  font-family: 'Bai Jamjuree';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+       url('../fonts/bai-jamjuree-v4-thai_latin-regular.woff2') format('woff2'), 
+       url('../fonts/bai-jamjuree-v4-thai_latin-regular.woff') format('woff'); 
+}
